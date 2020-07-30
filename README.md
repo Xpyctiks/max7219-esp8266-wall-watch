@@ -10,6 +10,9 @@ Also there is automatic brightness correction, according to the current time. Va
 
 Also there are includes OTA-update functionality, MDNS responder, SSDP server.
 There is a function udpsend() for sending log strings to any Rsyslog server to UDP port 514.
+
 Used external libraries:
+
 https://github.com/markruys/arduino-Max72xxPanel/
+
 https://github.com/adafruit/Adafruit-GFX-Library
